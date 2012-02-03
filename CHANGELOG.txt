@@ -1,12 +1,5 @@
 # Code to Widget Changelog
 
-## 1.2
-
-- NOTE: Maintenance update
-- General Code improvements
-- Cleanup of some code
-- Extracting as much code into views as possible
-
 ## 1.1.4
 
 - Fixing an issue with the Folder check and the smiley face

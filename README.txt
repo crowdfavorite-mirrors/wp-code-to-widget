@@ -1,9 +1,9 @@
 === Code to Widget ===
 Tags: code, php, widget
 Contributors: seanklein
-Requires at least: 3.0
-Tested up to: 3.4
-Stable tag: 1.2
+Requires at least: 2.9
+Tested up to: 3.1.1
+Stable tag: 1.1.4
 
 Code to Widget Plugin uses PHP files from a specified directory, and (if the file has the proper template tags) adds a Widget.
 
@@ -48,17 +48,6 @@ This plugin adds an easy to use/modify way to create plugins. The only thing a b
 All that is needed to create a widget is to create a PHP file in a specified folder and add the template tags to that file.  Then all that is needed is to go to the widget settings page and add the widget to a desired sidebar, and select the file name from the drop down. Then save the widget.
 
 == Changelog ==
-
-= 1.2 =
-
-* NOTE: Maintenance update
-* General Code improvements
-* Cleanup of some code
-* Extracting as much code into views as possible
-
-= 1.1.4 =
-
-* Fixing an issue with the Folder check and the smiley face
 
 = 1.1.3 =
 
